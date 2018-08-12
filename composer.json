@@ -1,0 +1,12 @@
+{
+    "name": "pixelfed/core",
+    "type": "library",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Daniel Supernault",
+            "email": "danielsupernault@gmail.com"
+        }
+    ],
+    "require": {}
+}
